@@ -1,0 +1,19 @@
+
+1.What is HTML?
+Ans>Html stands for hyper text markup language it is a basic building block of any website and its also a skeleton of website which contain the 
+all the tag . hyper text means many wep pages is link with other pages for which a(anchor tag) tag is used.
+
+2.What is CSS?
+Ans>CSS means cascading style sheet which hlps in  design a look to html pages with this we can add animation and decorate our website beutifully.
+
+3.What is the difference between front-end and back-end development?
+Ans.front-end means the visible part of webpage or the things which user can see it .in front end main task is to handle all the design and structure of the website.
+Backend means the invisible part which is not visible to user .in backend main task is to manage server request and fullfill to user request.
+
+4.What is JavaScript?
+Ans> the javacript is a scripting langauages which help to provide a function to our application and helps in engaging  a user overall it gives a function to a website or a brain
+
+5.What is a responsive web design?
+Ans>responsive web design is very much important to run website smoothly over all display size or devices.its play an important role in search engine optimization.
+
+Name-vikas kumar
